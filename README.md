@@ -9,7 +9,7 @@
 | 快手搬运抖音视频全自动挂车             | 
 | chattts + ffmpeg 合成音频自动挂车 | 
 
-<video src="./movie.mp4" width="320" height="600" controls>
+<video src="movie.mp4" width="320" height="600" controls>
 </video>
 
 ![img.png](img.png)
